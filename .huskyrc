@@ -1,0 +1,6 @@
+{
+  "hooks": {
+    "pre-commit": "npm run prettier:sass",
+    "pre-push": "npm run lint:sass"
+  }
+}
