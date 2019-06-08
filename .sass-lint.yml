@@ -10,7 +10,7 @@ options:
 # File Options
 files:
   include:
-    - 'app/styles/**/*.s+(a|c)ss'
+    - 'src/styles/**/*.s+(a|c)ss'
   # ignore:
 # Rule Configuration
 rules:
