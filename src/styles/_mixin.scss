@@ -59,6 +59,27 @@ main {
   }
 }
 
+h2,
+h3,
+h4 {
+  margin-bottom: 16px;
+}
+
+p {
+  margin-bottom: 40px;
+}
+
+h3 {
+  font-size: 18px;
+}
+
+h4 {
+  font-weight: normal;
+  margin-bottom: 8px;
+  font-size: 14px;
+  color: #a09f9f;
+}
+
 footer {
   border-top: solid #1e366a 1px;
   padding: 20px 0;
